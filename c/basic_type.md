@@ -4,4 +4,4 @@ Types like `int`, `char`, `float` and `_Complex`.
 
 ## Derived types
 
-Types which are not based, bur defined by users: arrays, structs and unions.
+Types which are not basic, but defined by users: arrays, structs and unions.
